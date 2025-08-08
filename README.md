@@ -7,7 +7,7 @@ Just a little project I threw together for Discord
 4. Let it run in background
 
 ```bash
-git clone https://github.com/r0xdeadbeef/AVC-DP.git && \
+git clone https://github.com/r0xDB/AVC-DP.git && \
 cd AVC-DP && \
 pip install -r requirements.txt && \
 python3 main.py

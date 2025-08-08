@@ -1,9 +1,10 @@
-````markdown
 # AVC-DP
-
-Just a small project that’s definitely **not magic** — it won’t make you hear audio or talk.  
-No hype, no flex, just some simple Discord stuff running with your own token.  
-If it does something useful for you, that’s already enough.
+Just a little project I threw together for Discord 
+## how it works
+1. Feed it your Discord token (get from browser)
+2. Tell it server + voice channel IDs
+3. Choose your status (or skip)
+4. Let it run in background
 
 ```bash
 git clone https://github.com/r0xdeadbeef/AVC-DP.git && \
@@ -15,5 +16,3 @@ python3 main.py
 ---
 
 <img src="./image/sample.png" alt="AVC-DP" width="600"/>
-```
-
